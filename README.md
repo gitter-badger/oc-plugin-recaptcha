@@ -1,4 +1,3 @@
-oc-plugin-recaptcha
-===================
+# oc-plugin-recaptcha
 
-reCAPTCHA plugin for OctoberCMS
+> reCAPTCHA (https://www.google.com/recaptcha) Plugin for OctoberCMS.

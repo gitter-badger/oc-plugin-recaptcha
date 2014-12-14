@@ -1,0 +1,14 @@
+fields:
+  public_key:
+    comment: axc.recaptcha::lang.settings.fields.public_key.comment
+    label: axc.recaptcha::lang.settings.fields.public_key.label
+    placeholder: axc.recaptcha::lang.settings.fields.public_key.placeholder
+    required: true
+    span: left
+
+  private_key:
+    comment: axc.recaptcha::lang.settings.fields.private_key.comment
+    label: axc.recaptcha::lang.settings.fields.private_key.label
+    placeholder: axc.recaptcha::lang.settings.fields.private_key.placeholder
+    required: true
+    span: right
